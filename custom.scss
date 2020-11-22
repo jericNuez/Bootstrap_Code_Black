@@ -1,0 +1,11 @@
+// add your theme here
+$theme-colors: (
+    "primary": rgb(121, 0, 177),
+);
+
+$btn-border-radius: 0px;
+$btn-border-radius-lg: 0px;
+$btn-border-radius-sm: 0px;
+
+
+@import "./node_modules/bootstrap/scss/bootstrap";
